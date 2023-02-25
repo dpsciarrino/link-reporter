@@ -1,2 +1,2 @@
-# link-reporter
-Helper program for managing affiliate links.
+# Link Reporter
+A helper program for managing affiliate links.
